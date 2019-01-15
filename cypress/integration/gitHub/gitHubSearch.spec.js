@@ -1,4 +1,8 @@
-  /// <reference types="Cypress" />
+/*  /// <reference types="Cypress" />
+
+//---------------------------------------------------
+// Looks like GitHub can't be tested with cypress
+//---------------------------------------------------
 
 describe('GitHub search for repository', function() {
     context('GitHub Search', () => {
@@ -55,4 +59,4 @@ describe('GitHub search for repository', function() {
             cy.get('.text-gray-dark').should('have.text', 'Trying Cypress')
         })
     })
-})  
+})  */
