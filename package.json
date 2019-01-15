@@ -1,0 +1,25 @@
+{
+  "name": "cypress-demo-experiment",
+  "version": "1.0.0",
+  "description": "cypress demo experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buhijs/cypress-demo-experiment.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Mārtiņš Buhanovskis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buhijs/cypress-demo-experiment/issues"
+  },
+  "homepage": "https://github.com/buhijs/cypress-demo-experiment#readme",
+  "devDependencies": {
+    "cypress": "3.1.4"
+  }
+}
